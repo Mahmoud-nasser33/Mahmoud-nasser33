@@ -18,8 +18,6 @@
 ## About Me  
 I am a Computer Science student at **Zewail City**, currently studying **Data Science and Artificial Intelligence**, with a strong passion for **Cyber Security** and ethical hacking.
 
-I am on my way to learning **Machine Learning fundamentals** while continuously strengthening my **mathematical foundations**, believing that mathematics is a core pillar for both intelligent systems and modern security analysis.
-
 I enjoy analyzing systems, understanding attack surfaces, and exploring how **data-driven and AI-based approaches** can enhance cyber defense and threat detection.
 
 Beyond technology, I am highly interested in **entrepreneurship** and innovation. I strongly believe that combining security, AI, and business thinking can lead to impactful and scalable solutions.
