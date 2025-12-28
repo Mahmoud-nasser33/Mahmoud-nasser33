@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mahmoud Sakr  
+# Hi, I'm Mahmoud Sakr  
 
-🎓 **Computer Science Student @ Zewail City**  
-📊 **Data Science & AI Student** | 🔐 **Cyber Security Enthusiast**  
-🧑‍💻🎩 **White-Hat Mindset** | 🐧 **Linux-first user**
+**Computer Science Student @ Zewail City**  
+**Data Science & AI Student** | **Cyber Security Enthusiast**  
+**White-Hat Mindset** |**Linux-first user**
 
 ---
 
@@ -11,10 +11,11 @@
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-2F4F4F?style=flat&logo=hackthebox&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-darkred?style=flat&logo=protonvpn&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=flat&logo=openai&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F61?style=flat&logo=tableau&logoColor=white)
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I am a Computer Science student at **Zewail City**, currently studying **Data Science and Artificial Intelligence**, with a strong passion for **Cyber Security** and ethical hacking.
 
 I am on my way to learning **Machine Learning fundamentals** while continuously strengthening my **mathematical foundations**, believing that mathematics is a core pillar for both intelligent systems and modern security analysis.
@@ -25,32 +26,32 @@ Beyond technology, I am highly interested in **entrepreneurship** and innovation
 
 ---
 
-## 💻 Operating Systems
-- 🐧 **Linux** (primary — especially **Kali Linux** 🛡️)  
-- 🪟 **Windows** (secondary)
+## Operating Systems
+- **Linux** (primary — especially **Kali Linux**)  
+- **Windows** (secondary)
 
 ---
 
-## 🔭 Current Work
-- 🧮 Working on a **mathematics-based project related to Cyber Security**  
-- 🛡️ Developing skills in **security analysis** and **penetration testing**  
-- 🤖 Learning **Machine Learning fundamentals** and core math concepts  
-- 🔗 Aspiring to **merge Cyber Security and AI** in future projects  
+## Current Work
+- Working on a **mathematics-based project related to Cyber Security**  
+- Developing skills in **security analysis** and **penetration testing**  
+- Learning **Machine Learning fundamentals** and core math concepts  
+- Aspiring to **merge Cyber Security and AI** in future projects  
 
 ---
 
-## 🌱 Personal Values & Growth
-- 🚀 Strong passion for **entrepreneurship** and innovation  
-- 🎯 Belief in long-term achievement through consistency and discipline  
-- 🤝 Actively improving **soft skills** (communication, teamwork, leadership)  
-- 💡 Ethical, curious, and growth-oriented mindset  
+## Personal Values & Growth
+- Strong passion for **entrepreneurship** and innovation  
+- Belief in long-term achievement through consistency and discipline  
+- Actively improving **soft skills** (communication, teamwork, leadership)  
+- Ethical, curious, and growth-oriented mindset  
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [Mahmoud Sakr](https://www.linkedin.com/in/mahmoud-sakr11)  
-- 📧 Email: **mahmoudsakr673@gmail.com**
+## Connect With Me
+- LinkedIn: [Mahmoud Sakr](https://www.linkedin.com/in/mahmoud-sakr11)  
+- Email: **mahmoudsakr673@gmail.com**
 
 ---
 
-⭐ *Think ethically. Secure intelligently. Build boldly.*
+*Think ethically. Secure intelligently. Build boldly.*
