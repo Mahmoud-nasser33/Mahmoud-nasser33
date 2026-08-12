@@ -1,55 +1,42 @@
 # Hi, I'm Mahmoud Sakr  
-
-**Computer Science Student @ Zewail City**  
-**Data Science & AI Student** | **Cyber Security Enthusiast**  
-**White-Hat Mindset** |**Linux-first user**
+**Data Science & AI Student @ Zewail City**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=false&vCenter=true&width=600&lines=Researching+LLM+Hallucination+Detection;VP+%40+AWS+Student+Builder+Group+@+ZewailCity;Working+on+a+startup+idea+in+the+digital+literacy+field" alt="Typing SVG" />
 
 ---
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-2F4F4F?style=flat&logo=hackthebox&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-darkred?style=flat&logo=protonvpn&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=flat&logo=openai&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F61?style=flat&logo=tableau&logoColor=white)
+**Tools & Technologies**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Data Governance](https://img.shields.io/badge/Data%20Governance-2F4F4F?style=flat&logo=databricks&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
 
-## About Me  
-I am a Computer Science student at **Zewail City**, currently studying **Data Science and Artificial Intelligence**, with a strong passion for **Cyber Security** and ethical hacking.
-
-I enjoy analyzing systems, understanding attack surfaces, and exploring how **data-driven and AI-based approaches** can enhance cyber defense and threat detection.
-
-Beyond technology, I am highly interested in **entrepreneurship** and innovation. I strongly believe that combining security, AI, and business thinking can lead to impactful and scalable solutions.
-
----
-
-## Operating Systems
-- **Linux** (primary — especially **Kali Linux**)  
-- **Windows** (secondary)
+## About Me
+Data Science and AI student currently researching hallucination detection in LLM code-review agents. 
+Beyond LLM evaluation, I work across backend and database development, including ERD-based relational systems and full-stack applications, and I'm comfortable with Git-based collaboration in team settings.
 
 ---
 
 ## Current Work
-- Working on a **mathematics-based project related to Cyber Security**  
-- Developing skills in **security analysis** and **penetration testing**  
-- Learning **Machine Learning fundamentals** and core math concepts  
-- Aspiring to **merge Cyber Security and AI** in future projects  
-
----
-
-## Personal Values & Growth
-- Strong passion for **entrepreneurship** and innovation  
-- Belief in long-term achievement through consistency and discipline  
-- Actively improving **soft skills** (communication, teamwork, leadership)  
-- Ethical, curious, and growth-oriented mindset  
+- Research Intern @ Zewail City — **fault-injection & verification pipeline** for LLM code-review agents  
+- Co-Founder & VP, **AWS Student Builder Group** — Zewail City
+- Working on a **startup idea in the digital literacy field**  
 
 ---
 
 ## Connect With Me
 - LinkedIn: [Mahmoud Sakr](https://www.linkedin.com/in/mahmoud-sakr11)  
-- Email: **mahmoudsakr673@gmail.com**
-
----
-
-*Think ethically. Secure intelligently. Build boldly.*
+- Personal Email: **mahmoudsakr673@gmail.com**
+- University Email: **s-mahmoud.shrief@zewailcity.edu.eg**
