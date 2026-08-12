@@ -13,10 +13,12 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Data Preprocessing & Cleaning](https://img.shields.io/badge/Data%20Preprocessing%20%26%20Cleaning-150458?style=flat&logo=pandas&logoColor=white)
 ![Data Governance](https://img.shields.io/badge/Data%20Governance-2F4F4F?style=flat&logo=databricks&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
@@ -37,6 +39,7 @@ Beyond LLM evaluation, I work across backend and database development, including
 ---
 
 ## Connect With Me
-- LinkedIn: [Mahmoud Sakr](https://www.linkedin.com/in/mahmoud-sakr11)  
-- Personal Email: **mahmoudsakr673@gmail.com**
-- University Email: **s-mahmoud.shrief@zewailcity.edu.eg**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-sakr11)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsakr673@gmail.com)
+[![University Email](https://img.shields.io/badge/University%20Email-2F4F4F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:s-mahmoud.shrief@zewailcity.edu.eg)
