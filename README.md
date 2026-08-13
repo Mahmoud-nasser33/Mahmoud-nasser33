@@ -1,7 +1,5 @@
 # Hi, I'm Mahmoud Sakr  
 **Data Science & AI Student @ Zewail City**  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=false&vCenter=true&width=600&lines=Researching+LLM+Hallucination+Detection;VP+%40+AWS+Student+Builder+Group+@+ZewailCity;Working+on+a+startup+idea+in+the+digital+literacy+field" alt="Typing SVG" />
-
 ---
 
 **Tools & Technologies**
