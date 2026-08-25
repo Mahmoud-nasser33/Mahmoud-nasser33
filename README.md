@@ -1,10 +1,6 @@
 # Hi, I'm Mahmoud Sakr  
 **Data Science & AI Student @ Zewail City**  
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-nasser33&label=PROFILE+VIEWS&style=flat-square)
-
-
-
 
 ## About Me
 Data Science and AI student currently researching hallucination detection in LLM code-review agents. 
